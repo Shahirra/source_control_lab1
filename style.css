@@ -6,8 +6,8 @@ body {
 
 button:hover {
   background-color: lightblue;
+  color: #007bff;
 }
-gi
 .pulse-button {
   padding: 15px 30px;
   font-size: 18px;
