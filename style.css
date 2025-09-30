@@ -6,4 +6,5 @@ body {
 
 button:hover {
   background-color: lightblue;
+  color: #007bff;
 }
